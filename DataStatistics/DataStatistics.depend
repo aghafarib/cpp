@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732429035 source:e:\cpp projects\datastatistics\main.cpp
+	<iostream>
+	<fstream>
+

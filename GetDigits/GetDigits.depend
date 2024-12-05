@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732432019 source:e:\cpp projects\getdigits\main.cpp
+	<iostream>
+	<vector>
+

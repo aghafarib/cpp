@@ -1,0 +1,4 @@
+Alice
+Mathematics,Physics,Data Base,Algorithm Design,OS,
+Bob
+Chemistry,MIS,Data Mining,

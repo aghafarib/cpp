@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732950533 source:e:\cpp projects\templatedemo\main.cpp
+	<iostream>
+	<type_traits>
+

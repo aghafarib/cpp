@@ -1,0 +1,4 @@
+Total Number : 1
+Even : 1
+Odd : 0
+Average : 100

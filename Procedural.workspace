@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Procedural">
+		<Project filename="ScopeDemo/ScopeDemo.cbp" />
+		<Project filename="isPrime/isPrime.cbp" />
+		<Project filename="OddEven/OddEven.cbp" />
+		<Project filename="DataStatistics/DataStatistics.cbp" />
+		<Project filename="GetDigits/GetDigits.cbp" />
+		<Project filename="SumDigits/SumDigits.cbp" />
+		<Project filename="filedemo/filedemo.cbp" />
+		<Project filename="ReverseNumber/ReverseNumber.cbp" />
+		<Project filename="RefrenceOut/RefrenceOut.cbp" />
+		<Project filename="ReferenceDemo/ReferenceDemo.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
